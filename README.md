@@ -9,7 +9,7 @@ This project includes all necessary files to set up and run a simple GTK 4 appli
 
 ## Getting Started
 
-To begin with this project, you'll need a Raspberry Pi 5 running Raspberry Pi OS and Visual Studio Code installed. Follow the detailed setup instructions and documentation available at [SYM7 PDF Guide](https://symbola.co.uk/download/16/raspberry-pi-sbc/286/sym7.pdf) to prepare your environment.
+To begin with this project, you'll need a Raspberry Pi 5 running Raspberry Pi OS and Visual Studio Code installed. Follow the detailed setup instructions and documentation available at [SYM7 PDF Guide](https://www.symbola.co.uk/download.php?file=SYM7) to prepare your environment.
 
 ## Contents
 
@@ -28,7 +28,7 @@ To compile and run the application, ensure you have followed the setup instructi
 
 ## Further Resources
 
-For more information on using GTK 4, Visual Studio Code, and programming on the Raspberry Pi, refer to the [SYM7 PDF Guide](https://symbola.co.uk/download/16/raspberry-pi-sbc/286/sym7.pdf). It's a valuable resource for both beginners and experienced developers looking to expand their knowledge.
+For more information on using GTK 4, Visual Studio Code, and programming on the Raspberry Pi, refer to the [SYM7 PDF Guide](https://www.symbola.co.uk/download.php?file=SYM7). It's a valuable resource for both beginners and experienced developers looking to expand their knowledge.
 
 ## License
 
